@@ -360,7 +360,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f905ac9ccce747f4aac1661af7095342, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ship: {fileID: 1242232962509872, guid: b774c98ccba51e0458434017d52ef9e7, type: 2}
+  ship: {fileID: 1905348363935738, guid: d46875e30d99e4a4088653443c6354a8, type: 2}
   interval: 1.5
 --- !u!1 &131579761
 GameObject:
@@ -1287,7 +1287,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 30, y: 30}
+  m_AnchoredPosition: {x: 30.000015, y: 30}
   m_SizeDelta: {x: 30, y: 30}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &753743176
@@ -1369,7 +1369,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f905ac9ccce747f4aac1661af7095342, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ship: {fileID: 1242232962509872, guid: b774c98ccba51e0458434017d52ef9e7, type: 2}
+  ship: {fileID: 1905348363935738, guid: d46875e30d99e4a4088653443c6354a8, type: 2}
   interval: 1.5
 --- !u!1 &1224373637
 GameObject:
@@ -1496,7 +1496,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f905ac9ccce747f4aac1661af7095342, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ship: {fileID: 1242232962509872, guid: b774c98ccba51e0458434017d52ef9e7, type: 2}
+  ship: {fileID: 1905348363935738, guid: d46875e30d99e4a4088653443c6354a8, type: 2}
   interval: 1.5
 --- !u!1 &1589793038
 GameObject:
@@ -2334,5 +2334,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f905ac9ccce747f4aac1661af7095342, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ship: {fileID: 1242232962509872, guid: b774c98ccba51e0458434017d52ef9e7, type: 2}
+  ship: {fileID: 1905348363935738, guid: d46875e30d99e4a4088653443c6354a8, type: 2}
   interval: 1.5
