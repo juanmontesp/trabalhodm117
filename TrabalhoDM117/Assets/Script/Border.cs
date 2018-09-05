@@ -11,4 +11,10 @@ public class Border : MonoBehaviour {
             Destroy(col.gameObject);
         }
     }
+
+    void Update()
+    {
+        if (MenuPause.pausado)
+            return;
+    }
 }

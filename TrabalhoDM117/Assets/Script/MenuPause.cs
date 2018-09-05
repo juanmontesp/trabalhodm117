@@ -43,7 +43,7 @@ public class MenuPause : MonoBehaviour
     void Start()
     {
         pausado = false;
-        SetMenuPause(true);
+        SetMenuPause(false);
     }
 
     

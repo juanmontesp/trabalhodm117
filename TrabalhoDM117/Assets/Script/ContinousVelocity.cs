@@ -11,5 +11,9 @@ public class ContinousVelocity : MonoBehaviour
     {
         GetComponent<Rigidbody2D>().velocity = velocity;
     }
-
+    void Update()
+    {
+        if (MenuPause.pausado)
+            return;
+    }
 }

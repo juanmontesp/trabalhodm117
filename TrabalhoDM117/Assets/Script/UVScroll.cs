@@ -10,5 +10,13 @@ public class UVScroll : MonoBehaviour {
     void LateUpdate()
     {
         GetComponent<Renderer>().material.mainTextureOffset = speed * Time.time;
+
+
+    }
+    void Update()
+    {
+        if (MenuPause.pausado)
+            return;
     }
 }
+
